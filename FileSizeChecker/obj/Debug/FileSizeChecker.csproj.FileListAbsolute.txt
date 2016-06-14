@@ -1,0 +1,6 @@
+C:\Users\joe.andrews\Documents\Other Projects\FileSizeChecker\FileSizeChecker\bin\Debug\FileSizeChecker.exe.config
+C:\Users\joe.andrews\Documents\Other Projects\FileSizeChecker\FileSizeChecker\bin\Debug\FileSizeChecker.exe
+C:\Users\joe.andrews\Documents\Other Projects\FileSizeChecker\FileSizeChecker\bin\Debug\FileSizeChecker.pdb
+C:\Users\joe.andrews\Documents\Other Projects\FileSizeChecker\FileSizeChecker\obj\Debug\FileSizeChecker.exe
+C:\Users\joe.andrews\Documents\Other Projects\FileSizeChecker\FileSizeChecker\obj\Debug\FileSizeChecker.pdb
+C:\Users\joe.andrews\Documents\Other Projects\FileSizeChecker\FileSizeChecker\obj\Debug\FileSizeChecker.csprojResolveAssemblyReference.cache
